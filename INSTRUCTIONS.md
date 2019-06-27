@@ -5,9 +5,11 @@ Using a laser cutter or laser cutting service, cut the pieces included in the dx
 To assemble you will need
 
 4 6/32 machine screw
+
 4 6/32 nuts
 
-4 screws included in your Maslow Kit to fix the Arduino, 
+4 screws included in your Maslow Kit to fix the Arduino
+
 4 plastic risers included in your Maslow Kit to lift the Arduino off the frame. (I have included some in the dxf in case you don't have them)
 
 Wires available here https://www.amazon.com/dp/B01EFIX0OU/ref=cm_sw_em_r_mt_dp_U_fgpfDbJJQATTQ
