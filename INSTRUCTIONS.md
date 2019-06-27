@@ -1,4 +1,4 @@
-INSTUCTIONS
+INSTRUCTIONS
 
 Using a laser cutter or laser cutting service, cut the pieces included in the dxf file from a 3 mm acrylic sheet.
 
