@@ -1,7 +1,6 @@
-Edit this file to add a bill of materials
+4 6/32 machine screw
+4 6/32 nuts
+3 lilo wires
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Wires available here https://www.amazon.com/dp/B01EFIX0OU/ref=cm_sw_em_r_mt_dp_U_fgpfDbJJQATTQ
